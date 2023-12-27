@@ -1,0 +1,71 @@
+.navbar{
+    background-color:#2C3E50}
+
+
+.navbar-brand{
+    font-size:1.75rem;
+}
+
+.adam{
+    background-color: rgba(26,188,156);
+    padding-top:200px;
+    padding-bottom:96px;
+}
+
+.adam img{
+    width:240px;
+    height:auto;
+}
+
+.adam h1{
+    font-size:4rem;
+    font-weight:700;
+}
+
+.adam p{
+    font-size:1.5rem;
+}
+
+.portfolio{
+    padding: 6rem;
+}
+
+.portfolio h1{
+    font-size:3rem;
+    line-height:2.5rem;
+    text-align:center;
+}
+
+.portfolio img{
+    width:100%;
+    height:auto;
+    border-radius:1rem;
+    
+}
+
+.about{
+    background-color: rgba(26,188,156);
+    padding:6rem 0;
+    font-size:20px;
+}
+
+.etiket{
+    color: rgba(26,188,156);
+}
+
+.location{
+    background-color:#2C3E50;
+    color:white;
+    padding-top:5rem;
+    padding-bottom:5rem;
+
+}
+
+.location p{
+    font-size:20px;
+}
+
+footer{
+    background-color: #212529;
+    color:white;
+}
